@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **MERN Stack**
 
-- 📫 How to reach me **saqibraheem1999@gmail.com**
+- 📫 How to reach me **saqib1999raheem@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
